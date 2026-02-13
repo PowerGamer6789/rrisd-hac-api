@@ -1,0 +1,25 @@
+{
+  "name": "rrisd-hac-api",
+  "version": "1.0.0",
+  "description": "a scraper based api for round rock isd home access center",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "rrisd",
+    "hac",
+    "home-access-center",
+    "grades",
+    "round-rock-isd"
+  ],
+  "author": "pwR",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "axios-cookiejar-support": "^5.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "qs": "^6.11.0",
+    "tough-cookie": "^4.1.3"
+  }
+}
