@@ -1,6 +1,6 @@
 {
   "name": "rrisd-hac-api",
-  "version": "1.0.01",
+  "version": "1.0.1",
   "description": "a scraper based api for round rock isd home access center",
   "main": "index.js",
   "scripts": {
